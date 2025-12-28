@@ -2,3 +2,4 @@ aiogram
 requests
 duckduckgo_search
 python-pptx
+groq
