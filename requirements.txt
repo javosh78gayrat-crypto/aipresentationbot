@@ -1,5 +1,5 @@
-aiogram
+aiogram==2.25.1
 requests
 duckduckgo_search
-python-pptx
 groq
+python-pptx
